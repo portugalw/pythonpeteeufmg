@@ -11,4 +11,4 @@ print('Nome: %s, numero: %s' %(nome, idade))
 print('Nome: {}, numero: {}'.format(nome, idade))
 
 #concat
-print('Sua idade é:' + str(idade) + '\nO nome é ' + nome) 
+print('Sua idade é:' + str(idade) + '\nO nome é ' + nome)
